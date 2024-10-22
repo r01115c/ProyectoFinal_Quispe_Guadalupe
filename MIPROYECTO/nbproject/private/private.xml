@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Main/Principal.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Vista/frm_RegistrarProducto.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Modelo/Producto.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Modelo/ListarProductos.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Modelo/Registro.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Conexion/ConexionMysql.java</file>
+            <file>file:/C:/Users/Will/Documents/NetBeansProjects/MIPROYECTO/src/Controlador/Controlador_Frm_Registrar_Producto.java</file>
+        </group>
+    </open-files>
+</project-private>
